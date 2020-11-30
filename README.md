@@ -1,2 +1,3 @@
-# jhoward.github.io
+# jackbmg
+.github.io
 My Github Page
